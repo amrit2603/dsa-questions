@@ -21,6 +21,8 @@ public class oneToN {
 
         oneToN obj = new oneToN();
         obj.method(n); // 1234567..n
+
+        //this is my feature change
     }
 }
 
