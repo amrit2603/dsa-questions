@@ -32,7 +32,7 @@ public class Classroom {
         }
     }
 
-    private static void createGraph(ArrayList<Edge>[] graph) {
+    static void createGraph(ArrayList<Edge>[] graph) {
         for(int i = 0 ;i < graph.length ; i++){
             graph[i] = new ArrayList<>();
         }
